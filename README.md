@@ -1,7 +1,7 @@
 ## hi
 
-i'm pretty glad see you here
-you can watch my main project "HomRec" here
+I'm pretty glad see you here.
+You can watch my main project "HomRec" here
 ---
 
 Links:
