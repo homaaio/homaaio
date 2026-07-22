@@ -9,7 +9,5 @@ You can watch my main project "HomRec" here <sub><img src="https://media.tenor.c
 
 X - **[x.com/homa4ella_dev](https://x.com/homa4ella_dev)**
 ---
-Telegram 1 - **[t.me/Homa4ellaqTG](https://t.me/homa4ellaqtg)**
----
-Telegram 2 - **[t.me/homa.exe](https://t.me/homaexe)**
+Telegram - **[t.me/homa.exe](https://t.me/homaexe)**
 ---
